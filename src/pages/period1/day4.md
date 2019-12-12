@@ -23,7 +23,7 @@ pageintro: |
 
 <!--lecture_begin-->
 
-- [:tv: My introduction to todays lecture (10 min.)]()
+- [:tv: My introduction to todays lecture (10 min.)](https://youtu.be/rEoMS1MK2Us)
 - [:tv: :book: History of JavaScript, ECMAScript, TC39 (text with video) (12. min) ](https://medium.com/free-code-camp/ecmascript-tc39-and-the-history-of-javascript-26067498feb9)
 - [:tv: Short intro to WebPack (14 min.)]
 - [:tv: Short intro to Babel](https://www.youtube.com/watch?v=C2PDAGCrk_g)
