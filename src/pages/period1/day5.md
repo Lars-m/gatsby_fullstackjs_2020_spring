@@ -14,11 +14,11 @@ pageintro: An introduction to Typescript, a superset of JavaScript.
 - [:book: (Use this handbook as reference for TypeScript)](https://www.typescriptlang.org/docs/home.html)
   <!--readings_end-->
 
-### Lecture
+### Lecture   
 
 <!--lecture_begin-->
 
-- [:tv: My Intro to todays lecture](https://www.youtube.com/watch?v=6QZHET6OfKQ&feature=youtu.be)
+- [:tv: My Intro to TypeScript and todays lecture (22 min.)](https://youtu.be/SYxyHEtKYD0)
 - [:tv: TypeScript, watch (as a MINIMUM) the first 15. minutes](https://www.youtube.com/watch?v=0ChtcZmb3dI) (If your Danish, it's OK to be just a little bit proud)
 
 <!--lecture_end-->
