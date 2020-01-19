@@ -117,6 +117,39 @@ export default class Links extends React.Component {
               </AccordionItemPanel>
             </AccordionItem>
           )}
+          {toInclude.includes("lectures") && (
+            <AccordionItem>
+              <AccordionItemHeading>
+                <AccordionItemButton>
+                  All Lectures given this semester
+                </AccordionItemButton>
+              </AccordionItemHeading>
+              <AccordionItemPanel>
+                <LinkCollector
+                  data={data}
+                  tag="lectures"
+                  removeDuplicates={true}
+                  render={allLinks => (
+                    <table>
+                      <tbody>
+                        {allLinks.map(d => {
+                          const html = d.htmlLinks
+                            .map(l => l.html)
+                            .join("<br/>");
+                          return (
+                            <tr key={d.id}>
+                              <td>{d.title}</td>
+                              <td dangerouslySetInnerHTML={{ __html: html }} />
+                            </tr>
+                          );
+                        })}
+                      </tbody>
+                    </table>
+                  )}
+                />
+              </AccordionItemPanel>
+            </AccordionItem>
+          )}
           {toInclude.includes("exercises") && (
             <AccordionItem>
               <AccordionItemHeading>
@@ -151,167 +184,167 @@ export default class Links extends React.Component {
             </AccordionItem>
           )}
 
-{toInclude.includes("admin") &&
-<AccordionItem>
-            <AccordionItemHeading>
-              <AccordionItemButton>
-                Administrative (Groups, Review-groups etc.)
+          {toInclude.includes("admin") &&
+            <AccordionItem>
+              <AccordionItemHeading>
+                <AccordionItemButton>
+                  Administrative (Groups, Review-groups etc.)
               </AccordionItemButton>
-            </AccordionItemHeading>
-            <AccordionItemPanel>
-              <LinkCollector
-                data={data}
-                tag="admin"
-                removeDuplicates={true}
-                render={links => (
-                  <table>
-                    <tbody>
-                      {links.map(d => {
-                        const html = d.htmlLinks.map(l => l.html).join("<br/>");
-                        return (
-                          <tr key={d.id}>
-                            {this.state.showSlidesDay && (
-                              <td style={{ width: "40%" }}>{d.title}</td>
-                            )}
-                            <td dangerouslySetInnerHTML={{ __html: html }} />
-                          </tr>
-                        );
-                      })}
-                    </tbody>
-                  </table>
-                )}
-              />
-            </AccordionItemPanel>
-          </AccordionItem>}
+              </AccordionItemHeading>
+              <AccordionItemPanel>
+                <LinkCollector
+                  data={data}
+                  tag="admin"
+                  removeDuplicates={true}
+                  render={links => (
+                    <table>
+                      <tbody>
+                        {links.map(d => {
+                          const html = d.htmlLinks.map(l => l.html).join("<br/>");
+                          return (
+                            <tr key={d.id}>
+                              {this.state.showSlidesDay && (
+                                <td style={{ width: "40%" }}>{d.title}</td>
+                              )}
+                              <td dangerouslySetInnerHTML={{ __html: html }} />
+                            </tr>
+                          );
+                        })}
+                      </tbody>
+                    </table>
+                  )}
+                />
+              </AccordionItemPanel>
+            </AccordionItem>}
           {toInclude.includes("examprep") &&
-          <AccordionItem>
-            <AccordionItemHeading>
-              <AccordionItemButton>
-                List of Exam Preparation Exercises
+            <AccordionItem>
+              <AccordionItemHeading>
+                <AccordionItemButton>
+                  List of Exam Preparation Exercises
               </AccordionItemButton>
-            </AccordionItemHeading>
-            <AccordionItemPanel>
-              <LinkCollector
-                data={data}
-                tag="exam-prep"
-                removeDuplicates={true}
-                render={links => (
-                  <table>
-                    <tbody>
-                      {links.map(d => {
-                        const html = d.htmlLinks.map(l => l.html).join("<br/>");
-                        return (
-                          <tr key={d.id}>
-                            {this.state.showSlidesDay && (
-                              <td style={{ width: "40%" }}>{d.title}</td>
-                            )}
-                            <td dangerouslySetInnerHTML={{ __html: html }} />
-                          </tr>
-                        );
-                      })}
-                    </tbody>
-                  </table>
-                )}
-              />
-            </AccordionItemPanel>
-          </AccordionItem>}
+              </AccordionItemHeading>
+              <AccordionItemPanel>
+                <LinkCollector
+                  data={data}
+                  tag="exam-prep"
+                  removeDuplicates={true}
+                  render={links => (
+                    <table>
+                      <tbody>
+                        {links.map(d => {
+                          const html = d.htmlLinks.map(l => l.html).join("<br/>");
+                          return (
+                            <tr key={d.id}>
+                              {this.state.showSlidesDay && (
+                                <td style={{ width: "40%" }}>{d.title}</td>
+                              )}
+                              <td dangerouslySetInnerHTML={{ __html: html }} />
+                            </tr>
+                          );
+                        })}
+                      </tbody>
+                    </table>
+                  )}
+                />
+              </AccordionItemPanel>
+            </AccordionItem>}
 
           {toInclude.includes("studypointex") &&
-          <AccordionItem>
-            <AccordionItemHeading>
-              <AccordionItemButton>
-                List of studypoint exercises (friday exercises) given throughout
-                the semester
+            <AccordionItem>
+              <AccordionItemHeading>
+                <AccordionItemButton>
+                  List of studypoint exercises (friday exercises) given throughout
+                  the semester
               </AccordionItemButton>
-            </AccordionItemHeading>
-            <AccordionItemPanel>
-              <LinkCollectorFromFrontMatter
-                data={data}
-                prop="isSP"
-                removeDuplicates={true}
-                render={allLinks => (
-                  <table>
-                    <tbody>
-                      {allLinks.map(d => {
-                        const html = d.htmlLinks.map(l => l.html).join(" | ");
-                        return (
-                          <tr key={d.id}>
-                            {this.state.showSlidesDay && (
-                              <td style={{ width: "40%" }}>{d.title}</td>
-                            )}
-                            <td dangerouslySetInnerHTML={{ __html: html }} />
-                          </tr>
-                        );
-                      })}
-                    </tbody>
-                  </table>
-                )}
-              />
-            </AccordionItemPanel>
-          </AccordionItem>}
-          
+              </AccordionItemHeading>
+              <AccordionItemPanel>
+                <LinkCollectorFromFrontMatter
+                  data={data}
+                  prop="isSP"
+                  removeDuplicates={true}
+                  render={allLinks => (
+                    <table>
+                      <tbody>
+                        {allLinks.map(d => {
+                          const html = d.htmlLinks.map(l => l.html).join(" | ");
+                          return (
+                            <tr key={d.id}>
+                              {this.state.showSlidesDay && (
+                                <td style={{ width: "40%" }}>{d.title}</td>
+                              )}
+                              <td dangerouslySetInnerHTML={{ __html: html }} />
+                            </tr>
+                          );
+                        })}
+                      </tbody>
+                    </table>
+                  )}
+                />
+              </AccordionItemPanel>
+            </AccordionItem>}
+
           {toInclude.includes("ca") &&
-          <AccordionItem>
-            <AccordionItemHeading>
-              <AccordionItemButton>
-                List of CA's (Course Assignments)
+            <AccordionItem>
+              <AccordionItemHeading>
+                <AccordionItemButton>
+                  List of CA's (Course Assignments)
               </AccordionItemButton>
-            </AccordionItemHeading>
-            <AccordionItemPanel>
-              <LinkCollector
-                data={data}
-                tag="ca"
-                removeDuplicates={true}
-                render={links => {
-                  return (
-                    <ul>
-                      {links.map(d => {
-                        const html = d.htmlLinks.map(l => l.html).join(" | ");
-                        return (
-                          <li
-                            key={d.id}
-                            dangerouslySetInnerHTML={{ __html: html }}
-                          />
-                        );
-                      })}
-                    </ul>
-                  );
-                }}
-              />
-            </AccordionItemPanel>
-          </AccordionItem>}
+              </AccordionItemHeading>
+              <AccordionItemPanel>
+                <LinkCollector
+                  data={data}
+                  tag="ca"
+                  removeDuplicates={true}
+                  render={links => {
+                    return (
+                      <ul>
+                        {links.map(d => {
+                          const html = d.htmlLinks.map(l => l.html).join(" | ");
+                          return (
+                            <li
+                              key={d.id}
+                              dangerouslySetInnerHTML={{ __html: html }}
+                            />
+                          );
+                        })}
+                      </ul>
+                    );
+                  }}
+                />
+              </AccordionItemPanel>
+            </AccordionItem>}
           {toInclude.includes("slides") &&
-          <AccordionItem>
-            <AccordionItemHeading>
-              <AccordionItemButton>
-                List of Slides used throughout the semester &nbsp;
+            <AccordionItem>
+              <AccordionItemHeading>
+                <AccordionItemButton>
+                  List of Slides used throughout the semester &nbsp;
               </AccordionItemButton>
-            </AccordionItemHeading>
-            <AccordionItemPanel>
-              <LinkCollector
-                data={data}
-                tag="slides"
-                useLineBreaks={true}
-                removeDuplicates={true}
-                render={links => (
-                  <table>
-                    <tbody>
-                      {links.map(d => {
-                        const html = d.htmlLinks.map(l => l.html).join("</br>");
-                        return (
-                          <tr key={d.id}>
-                            {this.state.showSlidesDay && <td>{d.title}</td>}
-                            <td dangerouslySetInnerHTML={{ __html: html }} />
-                          </tr>
-                        );
-                      })}
-                    </tbody>
-                  </table>
-                )}
-              />
-            </AccordionItemPanel>
-          </AccordionItem>}
-        </Accordion> 
+              </AccordionItemHeading>
+              <AccordionItemPanel>
+                <LinkCollector
+                  data={data}
+                  tag="slides"
+                  useLineBreaks={true}
+                  removeDuplicates={true}
+                  render={links => (
+                    <table>
+                      <tbody>
+                        {links.map(d => {
+                          const html = d.htmlLinks.map(l => l.html).join("</br>");
+                          return (
+                            <tr key={d.id}>
+                              {this.state.showSlidesDay && <td>{d.title}</td>}
+                              <td dangerouslySetInnerHTML={{ __html: html }} />
+                            </tr>
+                          );
+                        })}
+                      </tbody>
+                    </table>
+                  )}
+                />
+              </AccordionItemPanel>
+            </AccordionItem>}
+        </Accordion>
       </Layout>
     );
   }

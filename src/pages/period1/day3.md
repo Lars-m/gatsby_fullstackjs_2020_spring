@@ -1,7 +1,7 @@
 ---
 period: "Flow-1"
 title: "Day-3, Promises and async/await"
-date: "05-02-2019"
+date: "12-02-2020"
 pageintro: |
   es2015 Promises.
 
@@ -12,25 +12,27 @@ pageintro: |
 
 ### What to Read/watch:
 
-<!--readings_begin-->
+<!--BEGIN readings ##-->
 
 - [:book: JavaScript Promises 101 (15 min.)](https://bitsofco.de/javascript-promises-101/). This is what I have used for todays presentation
 - [:book: 6 Reasons Why JavaScript’s Async/Await Blows Promises Away (20 min.)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
-  <!--readings_end-->
+  <!--END readings ##-->
 
 ### Lectures
 
-<!--lecture_begin-->
+<!--BEGIN lectures ##-->
 
 - [:tv: Lecture - promises, async/await (65 min.)](https://www.youtube.com/playlist?list=PLDbigcKhXkiUYJe8U-aaffR7p-wybKFHX)
-  <!--lecture_end-->
+
+<!--END lectures ##-->
 
 ### Exercises
 
-<!--exercises_begin-->
+<!--BEGIN exercises ##-->
 
 - [Promises and async-await](https://docs.google.com/document/d/1jpqmitlHKeIcWzDdbe-jO281xFQiGywP3c2iKCDeffQ/edit?usp=sharing)
-  <!--exercises_end-->
+
+<!--END exercises ##-->
 
 ### Code samples for today lecture
 
@@ -38,4 +40,8 @@ pageintro: |
 
 #### Slides
 
+<!--BEGIN slides ##-->
+
 [Promises and async/await](http://slides.mydemos.dk/promises/promises.html#1)
+
+<!--END slides ##-->

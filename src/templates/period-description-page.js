@@ -12,7 +12,7 @@ export default ({ data }) => {
   }
   periodInfoHtml = post.html;
   periodTitle = post.frontmatter.title;
- 
+
   return (
     <Layout>
       <StyleContext.Consumer>
