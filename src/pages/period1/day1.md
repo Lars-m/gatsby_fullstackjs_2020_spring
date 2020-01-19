@@ -17,12 +17,11 @@ pageintro: |
 ### Before this lesson you should:
 
 - <a href="https://nodejs.org/en/download/current/" target="_blank" >Install/update node</a> (Install the newest LTS version)
-
-* [Install](https://code.visualstudio.com/download) Visual Studio Code(vs-code). You can use whatever IDE you like, but this is the one I will be using
+- [Install](https://code.visualstudio.com/download) Visual Studio Code(vs-code).
+- [:tv: IMPORTANT: Watch this playlist, also given below under lectures](https://www.youtube.com/playlist?list=PLDbigcKhXkiX40yLo2SgUMvUofpJy32W3)
 
 <!--BEGIN readings ##-->
 
-- [:tv: Watch this playlist (Important) to understand how this course is planned (19 min.)](https://www.youtube.com/playlist?list=PLDbigcKhXkiX40yLo2SgUMvUofpJy32W3)
 - [:tv: Short introduction to Node (13 min)](https://www.youtube.com/watch?v=pU9Q6oiQNd0)
 - [:book: Node.js in Visual Studio Code (15 min.)](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial) about Node.js and VS-code
   <!--END readings ##-->
@@ -35,7 +34,8 @@ If you like videos, [:tv: VS Code Introductory Videos](https://code.visualstudio
 
 <!--BEGIN lectures ##-->
 
-[:tv: Todays lectures](https://www.youtube.com/playlist?list=PLDbigcKhXkiUejrtlOwHBmmHxfoJ0h22g)
+- [:tv: Watch this playlist (Important) to understand how this course is planned (19 min.)](https://www.youtube.com/playlist?list=PLDbigcKhXkiX40yLo2SgUMvUofpJy32W3)
+- [:tv: Todays lectures](https://www.youtube.com/playlist?list=PLDbigcKhXkiUejrtlOwHBmmHxfoJ0h22g)
 
 <!--END lectures ##-->
 
