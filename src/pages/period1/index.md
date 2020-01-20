@@ -8,3 +8,9 @@ learningGoals: "https://docs.google.com/document/d/1bAbO2EheHi0F3VN76vawukiCL5hx
 
 _In this period we will refresh JavaScript as introduced previous semester and introduce the node.js platform.
 We will focus on the newest versions of JavaScript (ES.next) and what it takes to use it, both on the server and on clients (Babel & WebPack)._
+
+<!--BEGIN goals ##-->
+
+[Learning Goals (exam questions) for Period-1](https://docs.google.com/document/d/1JQpBvRvFd-qMMV7srqNdYZ6GIYiBjOyxkWIuCJSk2Ec/edit?usp=sharing)
+
+<!--END goals ##-->

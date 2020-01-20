@@ -49,17 +49,17 @@ export default class Links extends React.Component {
           </span>
         </h2>
         <Accordion allowZeroExpanded={true} allowMultipleExpanded={true}>
-          {toInclude.includes("guidelines") && (
+          {toInclude.includes("goals") && (
             <AccordionItem>
               <AccordionItemHeading>
                 <AccordionItemButton>
-                  Guidelines used throughout the semester
+                  Learning goals, listed as exam questions.
                 </AccordionItemButton>
               </AccordionItemHeading>
               <AccordionItemPanel>
                 <LinkCollector
                   data={data}
-                  tag="guides"
+                  tag="goals"
                   removeDuplicates={true}
                   render={links => (
                     <table>
