@@ -13,6 +13,12 @@ headertext: |
 
 Read [this link](https://docs.google.com/document/d/16zN81QlflXgs31w8UfSWKt9kWRAKYueb6uKAQ4eOR6M/edit?usp=sharing) for information about how the course is planned, the exam and much more
 
+## Various Links and Connect information
+
+- [Slack Workspace](fullstackjsspring2020.slack.com)
+- My Zoom Id: https://deic.zoom.us/my/larsmortensen
+- Snippet-file [used for several lessons](https://docs.google.com/document/d/1s-Uczqyj0AQG1Kc2pD43M-xr9en3DvPUxRv0rX27u0I/edit)
+
 ## Preliminary Semester Schedule
 
 You shoul recognize the layout of this site from the previous semester.
