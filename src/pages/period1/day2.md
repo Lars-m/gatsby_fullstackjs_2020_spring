@@ -22,13 +22,14 @@ pageintro: |
 <!--BEGIN lectures ##-->
 
 - [:tv: The Event Loop (26 min.) REALLY, REALLY Cool](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-- [:tv: Learn Node in 1 Hour (but make sure to code some of the examples alse)](https://youtu.be/evkckNdjnaI)
+- [:tv: Learn Node in 1 Hour (but make sure to code some of the examples also)](https://www.youtube.com/watch?v=TlB_eWDSMt4)
   <!--END lectures ##-->
 
 ### Extra
 
 Skim (the whole “book”, it’s short and clear (30 min.)) [:book: Art of node](https://github.com/maxogden/art-of-node)
 
+## Exercises
 <!--BEGIN exercises ##-->
 
 [Day2 Ex (Node Intro)](https://docs.google.com/document/d/16uX1YKzWGGz4tG112zlxp93oSTtH7SNiNvpXtdLW7nM/edit?usp=sharing)

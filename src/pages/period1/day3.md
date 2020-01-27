@@ -36,7 +36,7 @@ pageintro: |
 
 ### Code samples for today lecture
 
-[Samples use during todays lecture](https://github.com/fulsstackJS-Fall2018/Period-1/tree/master/code)
+[Samples used during todays lectures](https://github.com/fulsstackJS-Fall2018/Period-1/tree/master/code)
 
 #### Slides
 
