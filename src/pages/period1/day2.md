@@ -23,6 +23,8 @@ pageintro: |
 
 - [:tv: The Event Loop (26 min.) REALLY, REALLY Cool](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [:tv: Learn Node in 1 Hour (but make sure to code some of the examples also)](https://www.youtube.com/watch?v=TlB_eWDSMt4)
+
+Bonus Video :smiley: [JavaScript events and the Publish-Subscribe Pattern](https://www.youtube.com/watch?v=lj0Br4B-bus)
   <!--END lectures ##-->
 
 ### Extra
