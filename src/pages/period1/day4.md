@@ -30,7 +30,7 @@ pageintro: |
 - [:tv: Short intro to Babel](https://www.youtube.com/watch?v=C2PDAGCrk_g)
 
 ----
-- [:tv: A number of small hints related to the exercises, and what is expected from you at the exam, related to todays lecture (10 min.)](https://www.youtube.com/watch?v=Yf-cEk0wqdE)
+- [:tv: A number of small hints related to the exercises, and what is expected from you at the exam, related to todays lecture (10 min.)](https://www.youtube.com/watch?v=Ft-OqQte1mQ&feature=youtu.be)
 ### Extra
 
 If you wan't to see some of the very newest JavaScript additions (recomended, but not required)
