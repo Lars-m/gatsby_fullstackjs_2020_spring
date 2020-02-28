@@ -8,14 +8,12 @@ pageintro: |
 
 This is NOT a lecture. You should complete your period-1 hand-in
 
-
-
 # Handin info
 
-## Evaluering af undervisningsform i periode-1 
+## Evaluering af undervisningsform i periode-1
+
 Jeg vil meget gerne have jeres feedback på første periode før vi går videre. Udfyld derfor venligst dette skema alle sammen:
 https://forms.gle/FJxG3T1jgBUDwNbT9
-
 
 ## Aflevering af milestone-1 for Full StackJavaScript
 
@@ -31,7 +29,16 @@ Dette SKAL give mening for JER, så tvist det som I vil, så længe at I får af
 Jeres github-repo skal indeholde en README-fil der kort forklarer jeres strategi for afleveringen. Bruger I mit forslag herover, er et link til jeres kopi af læringsmål indeholdende jeres kommentarer nok.
 
 # Hand-in document
-Add your git-hub link here: [TBD](#)
+
+**Important. Read this before you handin**
+
+Your handin MUST be on a **private repo**. Make sure to invite me as a collaborator, if not, you will not be credited for the hand-in and I don't have time to send individual reminders to those who forget ;-)
+
+My github username is: **Lars-m** (spelled exactly like that.)
+
+If parts of your hand-in, is a group hand-in make sure to assign all members to one of the groups you will find in the document below.
+
+Add your git-hub link here (an group info if necessary): [Period-1 Studypoint Handin](https://docs.google.com/spreadsheets/d/1VkViYZf-F-kP_vYMcljD29X3ECYAvH1VvVw8s1xDvzo/edit?usp=sharing)
 
 ## Deadline
 
