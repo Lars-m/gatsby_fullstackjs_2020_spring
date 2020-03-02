@@ -9,7 +9,7 @@ pageintro: |
 
 ### Before this lesson you should:
 
-[Short introduction to this period](https://youtu.be/8LQOYSAqXPg)
+[:tv: Short introduction to this period](https://youtu.be/8LQOYSAqXPg)
 
 <!--BEGIN readings ##-->
 
