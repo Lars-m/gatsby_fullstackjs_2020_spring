@@ -38,7 +38,12 @@ My github username is: **Lars-m** (spelled exactly like that.)
 
 If parts of your hand-in, is a group hand-in make sure to assign all members to one of the groups you will find in the document below.
 
-Add your git-hub link here (an group info if necessary): [Period-1 Studypoint Handin](https://docs.google.com/spreadsheets/d/1VkViYZf-F-kP_vYMcljD29X3ECYAvH1VvVw8s1xDvzo/edit?usp=sharing)
+**This hand in is closed**
+Add your git-hub link here (an group info if necessary): [Period-1 Studypoint Handin (CLOSED)](#)
+
+<!--
+(https://docs.google.com/spreadsheets/d/1VkViYZf-F-kP_vYMcljD29X3ECYAvH1VvVw8s1xDvzo/edit?usp=sharing)
+-->
 
 ## Deadline
 
