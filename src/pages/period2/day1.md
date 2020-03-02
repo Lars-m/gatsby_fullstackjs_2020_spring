@@ -34,9 +34,9 @@ While you watch Mosh's video make sure to write down the following info which yo
 
 ## Exercises
 
-![Under construction](../../images/underconstruction.jpg)
-
 <!--BEGIN exercises ##-->
+
+[Express Exercises for the first three days](https://docs.google.com/document/d/1W8b6hihu1WyTduhzejUQ6mTSeCvax2PJLt5F9wUCEnQ/edit?usp=sharing)
 
 <!--END exercises ##-->
 
