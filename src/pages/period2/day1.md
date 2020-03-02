@@ -5,8 +5,6 @@ date: "04-03-2020"
 pageintro: |
 ---
 
-![Under construction](../../images/underconstruction.jpg)
-
 ### Before this lesson you should:
 
 [:tv: Short introduction to this period](https://youtu.be/8LQOYSAqXPg)
@@ -35,6 +33,8 @@ While you watch Mosh's video make sure to write down the following info which yo
   <!--END lectures ##-->
 
 ## Exercises
+
+![Under construction](../../images/underconstruction.jpg)
 
 <!--BEGIN exercises ##-->
 
