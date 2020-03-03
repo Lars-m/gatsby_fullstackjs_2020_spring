@@ -15,7 +15,7 @@ pageintro: |
     <!--END readings ##-->
 
 <!--BEGIN guides ##-->
-[Playlist introducing the Start Code](https://www.youtube.com/playlist?list=PLDbigcKhXkiVXdczPrduheeR2VGetHiVg)
+[:tv: Playlist introducing the Start Code](https://www.youtube.com/playlist?list=PLDbigcKhXkiVXdczPrduheeR2VGetHiVg)
 <!--END guides ##-->
 
 
