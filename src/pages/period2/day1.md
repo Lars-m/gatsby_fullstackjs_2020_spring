@@ -10,12 +10,15 @@ pageintro: |
 [:tv: Short introduction to this period](https://youtu.be/8LQOYSAqXPg)
 
 <!--BEGIN readings ##-->
-
 - [:book: Read all articles (except Express Generator) under "Getting Started"](https://expressjs.com/en/starter/installing.html)
 - [:book: Read the "Production best practices: performance and reliability"](https://expressjs.com/en/advanced/best-practice-performance.html)
-
-
     <!--END readings ##-->
+
+<!--BEGIN guides ##-->
+[Playlist introducing the Start Code](https://www.youtube.com/playlist?list=PLDbigcKhXkiVXdczPrduheeR2VGetHiVg)
+<!--END guides ##-->
+
+
 
 ## Lecture(s)
 
