@@ -39,7 +39,7 @@ module.exports = {
       title: "Links",
       //These are the only legal values, Update this if making changes
       // "guidelines","readings","exercises","admin","examprep","studypointex","ca","slides",
-      include: ["goals", "readings", "lectures", "exercises", "admin", "slides"],
+      include: ["goals", "readings","guidelines", "lectures", "exercises", "admin", "slides"],
       route: "/links"
     },
     {

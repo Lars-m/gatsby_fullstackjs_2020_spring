@@ -117,6 +117,39 @@ export default class Links extends React.Component {
               </AccordionItemPanel>
             </AccordionItem>
           )}
+          {toInclude.includes("guidelines") && (
+            <AccordionItem>
+              <AccordionItemHeading>
+                <AccordionItemButton>
+                  All Guidelines given this semester
+                </AccordionItemButton>
+              </AccordionItemHeading>
+              <AccordionItemPanel>
+                <LinkCollector
+                  data={data}
+                  tag="guides"
+                  removeDuplicates={true}
+                  render={allLinks => (
+                    <table>
+                      <tbody>
+                        {allLinks.map(d => {
+                          const html = d.htmlLinks
+                            .map(l => l.html)
+                            .join("<br/>");
+                          return (
+                            <tr key={d.id}>
+                              <td>{d.title}</td>
+                              <td dangerouslySetInnerHTML={{ __html: html }} />
+                            </tr>
+                          );
+                        })}
+                      </tbody>
+                    </table>
+                  )}
+                />
+              </AccordionItemPanel>
+            </AccordionItem>
+          )}
           {toInclude.includes("lectures") && (
             <AccordionItem>
               <AccordionItemHeading>

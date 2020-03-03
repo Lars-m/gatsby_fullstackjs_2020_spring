@@ -10,6 +10,6 @@ _In this period we will create backend API's using node and Express. We will tes
 
 <!--BEGIN goals ##-->
 
-[Learning Goals (exam questions) for Period-1 (TBD)](#)
+[Learning Goals (exam questions) for Period-2](https://docs.google.com/document/d/1afNG5FUcUe3A1lJAY4i8GjHMPE5rbn6HDGS-9vtV1Dw/edit?usp=sharing)
 
 <!--END goals ##-->
