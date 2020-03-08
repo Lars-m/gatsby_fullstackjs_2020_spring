@@ -31,7 +31,9 @@ pageintro: |
 
 <!--BEGIN exercises ##-->
 
-[Express Exercises for the first three days](https://docs.google.com/document/d/1W8b6hihu1WyTduhzejUQ6mTSeCvax2PJLt5F9wUCEnQ/edit?usp=sharing)
+- [Adjust your solution for the day-1 exercise as described here](https://www.youtube.com/watch?v=yXhh7XzZUZY)
+- [Or just clone my solution here](https://github.com/fullStackJavaScript-dat/express-exercises-day1)
+- [Express Exercises for the first three days (updated according to above)](https://docs.google.com/document/d/1W8b6hihu1WyTduhzejUQ6mTSeCvax2PJLt5F9wUCEnQ/edit?usp=sharing)
 
 <!--END exercises ##-->
 
