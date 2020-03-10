@@ -29,7 +29,9 @@ TBD
 
 <!--BEGIN exercises ##-->
 
-<!--END exercises ##-->
+- [Getting started with Mocha and Chai](https://docs.google.com/document/d/1v7WIZo9mVbYVyb1UuflszaykDnxQ2ex-LSHzrjZjp34/edit?usp=sharing)
+- [Continue with the Express-project introduced day1+2](https://docs.google.com/document/d/1W8b6hihu1WyTduhzejUQ6mTSeCvax2PJLt5F9wUCEnQ/edit?usp=sharing)
+  <!--END exercises ##-->
 
 <!--BEGIN slides ##-->
 
