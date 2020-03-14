@@ -5,7 +5,9 @@ date: "18-03-2020"
 pageintro: |
 ---
 
-### Before this lesson you should:
+## Whats this before anything below
+
+[:tv: Read/watc-guidelines for today's lecture](https://youtu.be/jRxzS1fBpWQ)
 
 ## Lecture(s)
 
