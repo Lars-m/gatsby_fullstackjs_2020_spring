@@ -24,7 +24,7 @@ pageintro: |
 
 - [:tv: Middleware Explained](https://www.youtube.com/watch?v=9HOem0amlyg)
 - [:tv: Handling CORS with middleware](https://www.youtube.com/watch?v=r8NdGWgLA_8)
-- [:tv: code-along video for the basic auth middleware question given in the exercises](https://youtu.be/JZQ0o379SXk)
+- [:tv: code-along video for the basic auth middleware question given in the exercises](https://youtu.be/X945HplOwVk)
   <!--END lectures ##-->
 
 ## Exercises
