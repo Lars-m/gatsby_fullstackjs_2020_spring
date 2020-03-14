@@ -1,6 +1,6 @@
 ---
 period: "Flow-2"
-title: "NoSQL with MongoDB"
+title: "Geo-location with GeoJson and MongoDB"
 date: "25-03-2020"
 pageintro: |
 ---
