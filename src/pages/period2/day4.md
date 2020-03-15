@@ -22,7 +22,7 @@ pageintro: |
 
 Make sure to setup a free account on Atlas BEFORE the lesson
 
-- [:tv: Setting up a free Cluster on Atlas, and getting started](https://youtu.be/mCiGsNbWsJc)
+- [:tv: Setting up a free Cluster on Atlas, and getting started](https://youtu.be/0Wqibp3r9wU)
 
 <!--END lectures_guides ##-->
 
