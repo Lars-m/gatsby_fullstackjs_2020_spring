@@ -16,7 +16,8 @@ Read [this link](https://docs.google.com/document/d/16zN81QlflXgs31w8UfSWKt9kWRA
 ## Various Links and Connect information
 
 - [Slack Workspace](https://fullstackjsspring2020.slack.com)
-- My Zoom Id: https://deic.zoom.us/my/larsmortensen
+- My NEW Zoom Id: https://cphbusiness.zoom.us/my/larsmortensen
+- My OLD Zoom Id (only kept as a backup): https://deic.zoom.us/my/larsmortensen
 - Snippet-file [used for several lessons](https://docs.google.com/document/d/1s-Uczqyj0AQG1Kc2pD43M-xr9en3DvPUxRv0rX27u0I/edit)
 
 ## Preliminary Semester Schedule
