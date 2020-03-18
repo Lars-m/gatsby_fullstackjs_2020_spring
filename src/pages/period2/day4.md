@@ -46,3 +46,7 @@ Make sure to setup a free account on Atlas BEFORE the lesson
 <!--BEGIN slides ##-->
 
 <!--END slides ##-->
+## Videos from this days lecture
+- part-1 (failed)
+- part-2 [(code-along)](https://youtu.be/x2PHy_5bIbw)
+- part-3 [(code-along)](https://youtu.be/rRAdDizTWZk)
