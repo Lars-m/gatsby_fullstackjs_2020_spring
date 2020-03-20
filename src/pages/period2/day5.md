@@ -29,6 +29,8 @@ pageintro: |
 
 <!--END exercises ##-->
 
+## Slides
+
 <!--BEGIN slides ##-->
 
 [geoLocation - a very quick intro](https://docs.google.com/presentation/d/1glznT9YaizO9Kqv9Hwf5vaP5duO68TZ7lcNH1DbmQXg/edit?usp=sharing)
