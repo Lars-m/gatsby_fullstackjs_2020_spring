@@ -23,7 +23,7 @@ pageintro: |
 
 <!--BEGIN lectures ##-->
 
-[:tv: Introduction to the next two days, related to geo-location](https://youtu.be/Y4CYMGLKpC0)
+
 
 <!--END lectures ##-->
 
