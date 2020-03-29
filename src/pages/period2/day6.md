@@ -19,6 +19,11 @@ pageintro: |
 
   <!--END readings ##-->
 
+## How to deploy your Project
+
+<!--BEGIN guides ##-->
+[:tv: Playlist explaining, step by step, how to deploy](https://www.youtube.com/playlist?list=PLDbigcKhXkiW3w8RQ25QRwJD5OhuTj8HU)
+<!--END guides ##-->
 ## Lecture(s)
 
 <!--BEGIN lectures ##-->
