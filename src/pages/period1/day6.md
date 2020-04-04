@@ -2,6 +2,7 @@
 period: "Flow-1"
 title: "Complete exercises for this period"
 date: "28-02-2020"
+decorator: "P1-Handin(#date#)"
 pageintro: |
   Complete Exercises and exam preparation for this period.
 ---
@@ -38,9 +39,14 @@ My github username is: **Lars-m** (spelled exactly like that.)
 
 If parts of your hand-in, is a group hand-in make sure to assign all members to one of the groups you will find in the document below.
 
+## Hand in for missing period-1 hand ins
+
+[Send me a mail, if you hand, I won't watch on a daily basis](https://docs.google.com/spreadsheets/d/12asREFazx4f6DXhn8yzcLGbb3DydXUK51FtDRGnGK-c/edit?usp=sharing)
+
+<!--
 **This hand in is closed**
 Add your git-hub link here (an group info if necessary): [Period-1 Studypoint Handin (CLOSED)](#)
-
+-->
 <!--
 (https://docs.google.com/spreadsheets/d/1VkViYZf-F-kP_vYMcljD29X3ECYAvH1VvVw8s1xDvzo/edit?usp=sharing)
 -->
