@@ -19,10 +19,16 @@ pageintro: |
 
   <!--END readings ##-->
 
+## How to deploy your Project
+
+<!--BEGIN guides ##-->
+[:tv: Playlist explaining, step by step, how to deploy](https://www.youtube.com/playlist?list=PLDbigcKhXkiW3w8RQ25QRwJD5OhuTj8HU)
+<!--END guides ##-->
 ## Lecture(s)
 
 <!--BEGIN lectures ##-->
-
+- [clone this project, and update your own project according to hints given in video below](https://github.com/fullStackJavaScript-dat/startcodeForP2_Day6_MongoGeo.git)
+- [Short introduction to the start code used in todays lectures](https://www.youtube.com/watch?v=7Iti_WvMJ-I)
 
 
 <!--END lectures ##-->
