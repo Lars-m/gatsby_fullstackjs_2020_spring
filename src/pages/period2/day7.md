@@ -7,7 +7,7 @@ pageintro: |
   Complete Exercises and exam preparation for this period.
 ---
 
-This is NOT a lecture. You should complete your period-1 hand-in
+This is NOT a lecture. You should complete your period-2 hand-in
 
 ## Handin info
 VIGTIGT!
