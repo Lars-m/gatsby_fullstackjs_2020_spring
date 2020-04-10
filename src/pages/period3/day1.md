@@ -23,6 +23,7 @@ pageintro: |
 
 ## Lecture(s)
 <!--BEGIN lectures ##-->
+[Exercises - React Native Day-1](https://docs.google.com/document/d/1OW3sJH43y1LXiLEUrSRfV9xU-VSGfWj-X6N8vu_J31s/edit?usp=sharing)
 <!--END lectures ##-->
 
 ## Exercises
