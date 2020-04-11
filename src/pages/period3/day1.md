@@ -11,7 +11,11 @@ pageintro: |
 ### Before this lesson you should:
 
 - [:tv: My intro to this period and the strategy I have chosen (TBD)](#)
-- [:tv: Choosing the best mobile app framework](https://www.youtube.com/watch?v=4m7msadL5iA)
+- [:tv: Choosing the best mobile app framework (12 min.)](https://www.youtube.com/watch?v=4m7msadL5iA)
+- [:tv: React Native Tutorial (see guidelines for what to watch)](https://www.youtube.com/watch?v=qSRrxpdMpVc)
+
+_I will provide a small guideline with links into some of the sections in the video above.
+You are not expected to see all 5 hours._
 
 <!--BEGIN readings ##-->
 
