@@ -2,6 +2,7 @@
 period: "Flow-3"
 title: "Android/IOS-Development with React native"
 date: "24-04-2020"
+decorator: "P3-Handin(#date#)"
 pageintro: |
   Complete Exercises and exam preparation for this period.
 ---
