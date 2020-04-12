@@ -12,8 +12,7 @@ pageintro: |
 -->
 
 ### Before this lesson you should:
-
-- [:tv: My intro to this period and the strategy I have chosen (TBD)](#)
+- [:tv: WATCH THIS FIRST - My intro to this period and the strategy I have chosen (25 min.)](https://youtu.be/dVPD1fBDUAM)
 - [:tv: Choosing the best mobile app framework (12 min.)](https://www.youtube.com/watch?v=4m7msadL5iA)
 - [:tv: React Native Tutorial (see guidelines below for what to watch)](https://www.youtube.com/watch?v=qSRrxpdMpVc)
 
