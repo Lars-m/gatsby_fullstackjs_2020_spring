@@ -41,6 +41,8 @@ Read the document, refered to above, "Preparing for Period-3, day 2" to see what
 
 <!--BEGIN exercises ##-->
 
+[Team Finder App](https://docs.google.com/document/d/15ps9pyGyjlW3SZeGCEBKvxRqBJkJSUmDwQJqfAanog4/edit?usp=sharing)
+
 <!--END exercises ##-->
 
 ## Videos recorded in the class

@@ -52,7 +52,7 @@ pageintro: |
 
 [Dagens lektion, optaget af Simon](https://youtu.be/rVUoI850lVU)
 
-Chatten er vist herunder med nogle løsningsforslag hvis der er nogen der har problemer med at få setuppet til at virke
+#### Chatten er vist herunder med nogle løsningsforslag hvis der er nogen der har problemer med at få setuppet til at virke
 
 Christoffersen : Man skal kun installere appen expo også kan man scanne QR koden. (iOS)
 
