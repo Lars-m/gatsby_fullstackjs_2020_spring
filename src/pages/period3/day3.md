@@ -3,27 +3,20 @@ period: "Flow-3"
 title: "Android/IOS-Development with React native"
 date: "22-04-2020"
 pageintro: |
- React Native Continued
- Native Device Features with React Native and Expo continued
+  React Native Continued
+  Native Device Features with React Native and Expo continued
 ---
-
-![Under construction](../../images/underconstruction.jpg)
-
 
 ### Before this lesson you should:
 
-<!--BEGIN readings ##-->
-
-<!--END readings ##-->
-
-<!--BEGIN guides ##-->
-
-<!--END guides ##-->
-
-
+Complete all exercises related to this period
 
 ## Lecture(s)
+
 <!--BEGIN lectures ##-->
+
+[Complete the Team Finder App](https://docs.google.com/document/d/15ps9pyGyjlW3SZeGCEBKvxRqBJkJSUmDwQJqfAanog4/edit?usp=sharing)
+
 <!--END lectures ##-->
 
 ## Exercises
@@ -33,6 +26,7 @@ pageintro: |
 <!--END exercises ##-->
 
 ## Videos recorded in the class
+
 TBD
 
 <!--BEGIN slides ##-->
