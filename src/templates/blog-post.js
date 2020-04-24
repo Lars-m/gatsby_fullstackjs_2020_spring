@@ -24,6 +24,7 @@ export default ({ data }) => {
     } catch (e) {}
   }
   let dayInfo = null;
+4
   let title = post.fields.title;
   let periodInfoHtml = null;
   let periodTitle = null;
