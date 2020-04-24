@@ -26,6 +26,7 @@ _Jeg har skrevet til dem og bedt om at det bliver fixet for hele klassen (skolen
 
 ### Before this lesson you should:
 
+- :tv: Watch this first! [My intro to this period](https://www.youtube.com/watch?v=1es1YJBlWWU)
 - :book: First part of this tutorial [How to GraphQL (42 min.)](https://www.howtographql.com/) (Skip the Advanced part, we are doing this as in the tutorial below)
 - :tv: Watch and CODE ALONG this GREAT [tutorial (90 min)](https://www.linkedin.com/learning/graphql-essential-training/server-setup-with-es6-support?u=57077785) (It will give you all most everything you need to design the miniproject GraphQL backend)
 
