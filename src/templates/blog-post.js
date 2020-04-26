@@ -21,10 +21,9 @@ export default ({ data }) => {
   if (post && post.frontmatter.goals) {
     try {
       learningGoal = post.frontmatter.goals.split("\n");
-    } catch (e) {}
+    } catch (e) { }
   }
   let dayInfo = null;
-4
   let title = post.fields.title;
   let periodInfoHtml = null;
   let periodTitle = null;
@@ -61,10 +60,10 @@ export default ({ data }) => {
 
   const pageInfo = post.frontmatter.pageintro
     ? remark()
-        .use(recommended)
-        .use(remarkHtml)
-        .processSync(post.frontmatter.pageintro)
-        .toString()
+      .use(recommended)
+      .use(remarkHtml)
+      .processSync(post.frontmatter.pageintro)
+      .toString()
     : "";
   const goals = learningGoal ? (
     <React.Fragment>
@@ -74,8 +73,8 @@ export default ({ data }) => {
       {makeUlForGoalsV2(learningGoal)}
     </React.Fragment>
   ) : (
-    ""
-  );
+      ""
+    );
 
   return (
     <Layout>
