@@ -54,7 +54,11 @@ _Jeg har skrevet til dem og bedt om at det bliver fixet for hele klassen (skolen
 
 TBD
 
+## Slides
+
 <!--BEGIN slides ##-->
+
+[GraphQL day1](https://docs.google.com/presentation/d/1xQUl6ftiCZGmqtGOvBQ6m1jKg3zjmLHqI370RjbeYAI/edit?usp=sharing)
 
 <!--END slides ##-->
 
