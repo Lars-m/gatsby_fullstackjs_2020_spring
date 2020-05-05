@@ -43,6 +43,7 @@ _Jeg har skrevet til dem og bedt om at det bliver fixet for hele klassen (skolen
 <!--BEGIN lectures ##-->
 
 [Complete the video tutorial above](#)
+[My Solution updated to 2020, BUT DO CODE ALONG, if you want to learn](https://github.com/fullStackJavaScript-dat/lynda-video-mongodb-only)
 
 <!--END lectures ##-->
 
@@ -52,7 +53,7 @@ _Jeg har skrevet til dem og bedt om at det bliver fixet for hele klassen (skolen
 
 ## Videos recorded in the class
 
-TBD
+[Video of this lecture (thanks to Simon)](https://www.youtube.com/watch?v=SxN6Y0__Wpc&feature=youtu.be)
 
 ## Slides
 

@@ -17,6 +17,13 @@ pageintro: |
 - Complete, if not already done, the Lynda video tutorial given last week
 - Decide for the backend you plan to use for your GraphQL client code (see first exercise below)
 - [:book: Introduction to Apollo Client, also read, "Why Apollo Client" and read/do "Get Started"](https://www.apollographql.com/docs/react/get-started/)
+
+#### If you want to follow on with the examples, coded during this lecture, you should have all the following projects ready:
+
+- [The Lynda Video Project (this is link to my solution)](https://github.com/fullStackJavaScript-dat/lynda-video-mongodb-only)
+- Your own solution to the ongoin semester project (as a minimum with the UserFacade)
+- [Clone this react project, for a "getting started" UI for the Lynda API](https://github.com/fullStackJavaScript-dat/lyndavideo-client-startcode.git)
+
 <!--BEGIN readings ##-->
 
 <!--END readings ##-->
