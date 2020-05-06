@@ -49,6 +49,18 @@ pageintro: |
 
 ## Videos recorded in the class
 
+[Dagen lektion, fra Simon](https://www.youtube.com/watch?v=HgAqAuW6XAg&feature=youtu.be)
+
+- 0 - 00.43.00 :arrow_right: Gennemgang af Lynda Koden og tilføje ændringer nødvendige for Klient Side Eksemplet der følger
+- HUSK AT TILFØJE cors, se snippet fil for denne del.
+- 28.30 :arrow_right: Ændringer tilføjet for at kunne få alle Friends
+
+- 43.00 - 2.29.30 :arrow_right: Tilføje GraphQL API til den gennemgående Semester Case
+- 01.02.00 :arrow_right: Dependencies
+- 01.14.30 :arrow_right: Lav fil til vores graphql route
+- 2.29.30 - Slut :arrow_right: Introduktion til Apollo React GraphQL API'et
+
+[Kode snippets brugt I video](https://docs.google.com/document/d/1kE6fMJTpYnu22vwJKT9d7zdxcERbumG5whWzkzXMAkk/edit?usp=sharing) Her bør I kunne finde alle snippets brugt i video, da jeg jo overskriver adskillige ting i den oprindelig fil
 <!--BEGIN slides ##-->
 
 <!--END slides ##-->
