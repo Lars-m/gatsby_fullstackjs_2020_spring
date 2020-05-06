@@ -61,6 +61,10 @@ pageintro: |
 - 2.29.30 - Slut :arrow_right: Introduktion til Apollo React GraphQL API'et
 
 [Kode snippets brugt I video](https://docs.google.com/document/d/1kE6fMJTpYnu22vwJKT9d7zdxcERbumG5whWzkzXMAkk/edit?usp=sharing) Her bør I kunne finde alle snippets brugt i video, da jeg jo overskriver adskillige ting i den oprindelig fil
+
+
+---
+
 <!--BEGIN slides ##-->
 
 <!--END slides ##-->
