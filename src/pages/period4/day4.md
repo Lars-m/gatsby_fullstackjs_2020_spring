@@ -14,7 +14,7 @@ _This is NOT a lecture. You should complete your period-3 hand-in_
 Hvad er det I skal aflevere?
 
 - Kode, til at supplere periodens læringsmål.
-- Deployet Backend
+- Deployet GraphQL Backend
 - Dokument med jeres stikord til de enkelte læringsmål.Dette kan være projektets README-fil, eller link til et Google-doc (husk at give læserettighed)
 
 ---
@@ -23,7 +23,7 @@ VIGTIGT-1: Afleverer I som gruppe skal det fremgå ØVERST i dokumentet herover 
 
 VIGTIGT-2: Det er (langt) bedre at aflevere lidt end intet. Er jeres aflevering ikke komplet, så skriv det ØVERST i jeres dokument med læringsmål
 
-[Handin document (TBD)]()
+[Handin document](https://docs.google.com/spreadsheets/d/1MgOO4SZIl_wn2EWHobvRvLoC1BqxE9auOkIzAzL47IY/edit?usp=sharing)
 
 ## Deadline
 
