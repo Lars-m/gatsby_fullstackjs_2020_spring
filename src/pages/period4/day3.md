@@ -14,9 +14,10 @@ pageintro: |
 - [Queries](https://www.apollographql.com/docs/react/data/queries/)
 - [Mutations](https://www.apollographql.com/docs/react/data/mutations/)
 
-*I have found that the on-line servers provided with the examples are very unstable*
+_I have found that the on-line servers provided with the examples are very unstable_
 
-*Clone this project for a SIMPLE server that includes all required queries and mutations required for the examples given above*
+_Clone this project for a SIMPLE server that includes all required queries and mutations required for the examples given above_
+
 - [All Three Servers Combined](https://github.com/fullStackJavaScript-dat/all-servers-for-apollo-demos.git)
 
 <!-- ## Lecture(s) -->
@@ -26,6 +27,7 @@ pageintro: |
 <!--END lectures ##-->
 
 ## Exercises
+
 **Same as for day-2**
 
 - [Decide for a GraphQL demo project for this period, and setup the server](https://docs.google.com/document/d/1qiFtAasy4mU1KBm7da3QMAHQYT1N_237xjumFUZRRq8/edit?usp=sharing)
@@ -36,7 +38,7 @@ pageintro: |
 
 ## Videos recorded in the class
 
-TBD
+[Video from this lecture (thanks to Simon)](https://www.youtube.com/watch?v=MFkJr28wqvU&feature=youtu.be)
 
 <!--BEGIN slides ##-->
 
